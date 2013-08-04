@@ -1,0 +1,530 @@
+TtableView-Home
+v7
+r0
+t394404814.089492
+cCheck dependencies
+cProcessInfoPlistFile /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/Info.plist tableView_Home-Info.plist
+cCompileXIB /Users/User/Dropbox/ApP4U/tableView-Home/MainWindow.xib
+cCompileXIB /Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemDetailViewController.xib
+cCompileXIB /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SmartExchangeController.xib
+cCompileXIB /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SVController.xib
+cProcessPCH /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch.gch tableView_Home_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/main.o /Users/User/Dropbox/ApP4U/tableView-Home/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/tableView_HomeAppDelegate.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableView_HomeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/Possession.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/Possession.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/PossessionController.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/PossessionController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/ItemsViewController.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/ItemDetailViewController.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/SmartExchangeController.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SmartExchangeController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/SVController.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SVController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/tableItemCell.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableItemCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/tableView-Home normal i386
+cGenerateDSYMFile /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app.dSYM /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/tableView-Home
+cTouch /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C9D945A0000000000000132
+t1285395546
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemDetailViewController.h
+c0000000051CCB74200000000000002ED
+t1372370754
+s749
+i<UIKit/UIKit.h>
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemDetailViewController.m
+c0000000051CCB7420000000000000911
+t1372370754
+s2321
+i"ItemDetailViewController.h"
+i"Possession.h"
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemDetailViewController.xib
+c0000000051CCA18C00000000000075B6
+t1372365196
+s30134
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemsViewController.h
+c0000000051CC2B2200000000000005A1
+t1372334882
+s1441
+i<Foundation/Foundation.h>
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemsViewController.m
+c0000000051D1EC23000000000000349C
+t1372711971
+s13468
+i"ItemsViewController.h"
+i"ItemDetailViewController.h"
+i"PossessionController.h"
+i"Possession.h"
+i"tableItemCell.h"
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/Possession.h
+c0000000051CBE96E00000000000004DA
+t1372318062
+s1242
+i<Foundation/Foundation.h>
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/Possession.m
+c0000000051C60AF200000000000004B9
+t1371933426
+s1209
+i"Possession.h"
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/PossessionController.h
+c0000000051CC46680000000000001606
+t1372341864
+s5638
+i<Foundation/Foundation.h>
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/PossessionController.m
+c0000000051CF2BFB0000000000004276
+t1372531707
+s17014
+i"PossessionController.h"
+i"Possession.h"
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SVController.h
+c0000000051D0A9050000000000000115
+t1372629253
+s277
+i<UIKit/UIKit.h>
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SVController.m
+c0000000051D0ADA90000000000000600
+t1372630441
+s1536
+i"SVController.h"
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SVController.xib
+c0000000051D0A8FD0000000000004CDB
+t1372629245
+s19675
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SecondViewController.h
+c0000000051D0A2CA0000000000000120
+t1372627658
+s288
+i<UIKit/UIKit.h>
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SecondViewController.m
+c0000000051D0A2D400000000000005E5
+t1372627668
+s1509
+i"SecondViewController.h"
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SmartExchangeController.h
+c0000000051CF390300000000000003CA
+t1372535043
+s970
+i<UIKit/UIKit.h>
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SmartExchangeController.m
+c0000000051D0AED70000000000000BEA
+t1372630743
+s3050
+i"SmartExchangeController.h"
+i"ItemDetailViewController.h"
+i"SVController.h"
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SmartExchangeController.xib
+c0000000051CF38F50000000000009091
+t1372535029
+s37009
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/jd.xib
+c0000000051D0A67200000000000046AC
+t1372628594
+s18092
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableItemCell.h
+c0000000051D1E9DB000000000000021C
+t1372711387
+s540
+i<Foundation/Foundation.h>
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableItemCell.m
+c0000000051D1EA570000000000000B01
+t1372711511
+s2817
+i"tableItemCell.h"
+i"Possession.h"
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableView_HomeAppDelegate.h
+c0000000051CF2BFB000000000000016C
+t1372531707
+s364
+i<UIKit/UIKit.h>
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableView_HomeAppDelegate.m
+c0000000051CF3809000000000000135E
+t1372534793
+s4958
+i"tableView_HomeAppDelegate.h"
+i"ItemsViewController.h"
+i"SmartExchangeController.h"
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/MainWindow.xib
+c0000000051CC7E43000000000000212B
+t1372356163
+s8491
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app
+t1372712014
+s306
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app.dSYM
+t1372712013
+s102
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/Info.plist
+t1372711999
+s624
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/ItemDetailViewController.nib
+t1372712002
+s2330
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/MainWindow.nib
+t1372712001
+s991
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/PkgInfo
+t1372711999
+s8
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/SVController.nib
+t1372712006
+s1492
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/SmartExchangeController.nib
+t1372712004
+s3416
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/jd.nib
+t1372628677
+s1395
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/tableView-Home
+t1372712013
+s109560
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/ItemDetailViewController.o
+t1372712012
+s45260
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/ItemsViewController.o
+t1372712011
+s70280
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/Possession.o
+t1372712009
+s10424
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/PossessionController.o
+t1372712010
+s98188
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/SVController.o
+t1372712013
+s35004
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/SecondViewController.o
+t1372628682
+s34956
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/SmartExchangeController.o
+t1372712012
+s49100
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/main.o
+t1372712008
+s6308
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/tableItemCell.o
+t1372712013
+s40736
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/tableView-Home.LinkFileList
+c0000000051D1EC3E000000000000054C
+t1372711998
+s1356
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/tableView_HomeAppDelegate.o
+t1372712008
+s53152
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/main.m
+c0000000051CC7E43000000000000017C
+t1372356163
+s380
+i<UIKit/UIKit.h>
+
+N/Users/User/Dropbox/ApP4U/tableView-Home/tableView_Home_Prefix.pch
+c0000000051CC7E4300000000000000C5
+t1372356163
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch.gch
+t1372712007
+s15232016
+
+NtableView_Home-Info.plist
+c0000000051CC7E43000000000000038D
+t1372356163
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies394404798#394404799#0(0"0(0#1#0"8620875168#0"0#
+
+CCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/ItemDetailViewController.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s394404811.730629
+e394404812.307575
+r1
+xCompileC
+xbuild/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/ItemDetailViewController.o
+x/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemDetailViewController.m394404811#394404812#0(0"0(0#0#75"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemDetailViewController.m8623168576#2111"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-generated-files.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-project-headers.hmap -F/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch -c /Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemDetailViewController.m -o /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/ItemDetailViewController.o0#
+
+CCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/ItemsViewController.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s394404810.432122
+e394404811.730413
+r1
+xCompileC
+xbuild/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/ItemsViewController.o
+x/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemsViewController.m: In function '-[ItemsViewController tableView:cellForRowAtIndexPath:]':
+o/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemsViewController.m:205: warning: unused variable 'cell'
+lSLF07#2@78"Compile /Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemsViewController.m394404810#394404811#0(251"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemsViewController.m: In function '-[ItemsViewController tableView:cellForRowAtIndexPath:]':/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemsViewController.m:205: warning: unused variable 'cell'1(22@22"Unused variable 'cell'394404811#143#108#0(6@70"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemsViewController.m394404771#205#0#205#0#19"unused variable '*'0(0#0#70"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemsViewController.m8624388640#2101"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-generated-files.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-project-headers.hmap -F/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch -c /Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemsViewController.m -o /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/ItemsViewController.o0#
+
+CCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/Possession.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/Possession.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s394404808.614732
+e394404809.466342
+r1
+xCompileC
+xbuild/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/Possession.o
+x/Users/User/Dropbox/ApP4U/tableView-Home/Classes/Possession.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/User/Dropbox/ApP4U/tableView-Home/Classes/Possession.m394404808#394404809#0(0"0(0#0#61"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/Possession.m8621168928#2083"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-generated-files.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-project-headers.hmap -F/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch -c /Users/User/Dropbox/ApP4U/tableView-Home/Classes/Possession.m -o /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/Possession.o0#
+
+CCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/PossessionController.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/PossessionController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s394404809.466715
+e394404810.432034
+r1
+xCompileC
+xbuild/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/PossessionController.o
+x/Users/User/Dropbox/ApP4U/tableView-Home/Classes/PossessionController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/User/Dropbox/ApP4U/tableView-Home/Classes/PossessionController.m394404809#394404810#0(0"0(0#0#71"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/PossessionController.m8628027200#2103"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-generated-files.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-project-headers.hmap -F/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch -c /Users/User/Dropbox/ApP4U/tableView-Home/Classes/PossessionController.m -o /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/PossessionController.o0#
+
+CCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/SVController.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SVController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s394404812.932666
+e394404813.341803
+r1
+xCompileC
+xbuild/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/SVController.o
+x/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SVController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SVController.m394404812#394404813#0(0"0(0#0#63"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SVController.m8624999712#2087"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-generated-files.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-project-headers.hmap -F/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch -c /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SVController.m -o /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/SVController.o0#
+
+CCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/SecondViewController.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s394321482.034291
+e394321482.391726
+r1
+xCompileC
+xbuild/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/SecondViewController.o
+x/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SecondViewController.m394321482#394321482#0(0"0(0#0#71"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SecondViewController.m8598292896#2103"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-generated-files.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-project-headers.hmap -F/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch -c /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SecondViewController.m -o /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/SecondViewController.o0#
+
+CCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/SmartExchangeController.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SmartExchangeController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s394404812.307667
+e394404812.932577
+r1
+xCompileC
+xbuild/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/SmartExchangeController.o
+x/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SmartExchangeController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SmartExchangeController.m394404812#394404812#0(0"0(0#0#74"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SmartExchangeController.m8624989120#2109"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-generated-files.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-project-headers.hmap -F/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch -c /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SmartExchangeController.m -o /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/SmartExchangeController.o0#
+
+CCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/main.o /Users/User/Dropbox/ApP4U/tableView-Home/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s394404807.679183
+e394404808.105252
+r1
+xCompileC
+xbuild/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/main.o
+x/Users/User/Dropbox/ApP4U/tableView-Home/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/User/Dropbox/ApP4U/tableView-Home/main.m394404807#394404808#0(0"0(0#0#47"/Users/User/Dropbox/ApP4U/tableView-Home/main.m8606439680#2063"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-generated-files.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-project-headers.hmap -F/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch -c /Users/User/Dropbox/ApP4U/tableView-Home/main.m -o /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/main.o0#
+
+CCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/tableItemCell.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableItemCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s394404813.342010
+e394404813.777996
+r1
+xCompileC
+xbuild/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/tableItemCell.o
+x/Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableItemCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableItemCell.m394404813#394404813#0(0"0(0#0#64"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableItemCell.m8625665344#2089"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-generated-files.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-project-headers.hmap -F/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch -c /Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableItemCell.m -o /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/tableItemCell.o0#
+
+CCompileC build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/tableView_HomeAppDelegate.o /Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableView_HomeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s394404808.105385
+e394404808.614643
+r1
+xCompileC
+xbuild/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/tableView_HomeAppDelegate.o
+x/Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableView_HomeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableView_HomeAppDelegate.m394404808#394404808#0(0"0(0#0#76"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableView_HomeAppDelegate.m8633167552#2113"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-generated-files.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-project-headers.hmap -F/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch -c /Users/User/Dropbox/ApP4U/tableView-Home/Classes/tableView_HomeAppDelegate.m -o /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/tableView_HomeAppDelegate.o0#
+
+CCompileXIB /Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemDetailViewController.xib
+s394404801.764918
+e394404803.073007
+r1
+xCompileXIB
+x/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemDetailViewController.xib
+lSLF07#2@47"CompileXIB Classes/ItemDetailViewController.xib394404801#394404803#0(0"0(0#0#77"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemDetailViewController.xib8601084992#619"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/ItemDetailViewController.nib /Users/User/Dropbox/ApP4U/tableView-Home/Classes/ItemDetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SVController.xib
+s394404804.951321
+e394404806.268691
+r1
+xCompileXIB
+x/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SVController.xib
+lSLF07#2@35"CompileXIB Classes/SVController.xib394404804#394404806#0(0"0(0#0#65"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SVController.xib8625051168#595"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/SVController.nib /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SVController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SmartExchangeController.xib
+s394404803.073199
+e394404804.951112
+r1
+xCompileXIB
+x/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SmartExchangeController.xib
+lSLF07#2@46"CompileXIB Classes/SmartExchangeController.xib394404803#394404804#0(0"0(0#0#76"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/SmartExchangeController.xib8620981344#617"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/SmartExchangeController.nib /Users/User/Dropbox/ApP4U/tableView-Home/Classes/SmartExchangeController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/User/Dropbox/ApP4U/tableView-Home/Classes/jd.xib
+s394321476.197400
+e394321477.426026
+r1
+xCompileXIB
+x/Users/User/Dropbox/ApP4U/tableView-Home/Classes/jd.xib
+lSLF07#2@25"CompileXIB Classes/jd.xib394321476#394321477#0(0"0(0#0#55"/Users/User/Dropbox/ApP4U/tableView-Home/Classes/jd.xib8608552992#575"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/jd.nib /Users/User/Dropbox/ApP4U/tableView-Home/Classes/jd.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/User/Dropbox/ApP4U/tableView-Home/MainWindow.xib
+s394404799.044775
+e394404801.764709
+r1
+xCompileXIB
+x/Users/User/Dropbox/ApP4U/tableView-Home/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib394404799#394404801#0(0"0(0#0#55"/Users/User/Dropbox/ApP4U/tableView-Home/MainWindow.xib8603743968#583"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/MainWindow.nib /Users/User/Dropbox/ApP4U/tableView-Home/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app.dSYM /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/tableView-Home
+s394404813.887634
+e394404814.028528
+r1
+xGenerateDSYMFile
+x/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app.dSYM
+x/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/tableView-Home
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/tableView-Home.app.dSYM build/Debug-iphonesimulator/tableView-Home.app/tableView-Home394404813#394404814#0(0"0(0#0#102"/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/tableView-Home8600882816#410"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/tableView-Home -o /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app.dSYM0#
+
+CLd /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/tableView-Home normal i386
+s394404813.778075
+e394404813.887519
+r1
+xLd
+x/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/tableView-Home
+xnormal
+xi386
+lSLF07#2@107"Link /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/tableView-Home394404813#394404813#0(0"0(0#0#0"8626790656#945"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator -F/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator -filelist /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/Objects-normal/i386/tableView-Home.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/tableView-Home0#
+
+CProcessInfoPlistFile /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/Info.plist tableView_Home-Info.plist
+s394404799.038610
+e394404799.044656
+r1
+xProcessInfoPlistFile
+x/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/Info.plist
+xtableView_Home-Info.plist
+lSLF07#2@33"Process tableView_Home-Info.plist394404799#394404799#0(0"0(0#0#66"/Users/User/Dropbox/ApP4U/tableView-Home/tableView_Home-Info.plist8605910336#506"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility tableView_Home-Info.plist -genpkginfo /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app/Info.plist0#
+
+CProcessPCH /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch.gch tableView_Home_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s394404806.268801
+e394404807.678968
+r1
+xProcessPCH
+x/var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch.gch
+xtableView_Home_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile tableView_Home_Prefix.pch394404806#394404807#0(0"0(0#0#66"/Users/User/Dropbox/ApP4U/tableView-Home/tableView_Home_Prefix.pch8620831776#1946"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-generated-files.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-own-target-headers.hmap -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-all-target-headers.hmap -iquote /Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/tableView-Home-project-headers.hmap -F/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator -I/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/include -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources/i386 -I/Users/User/Dropbox/ApP4U/tableView-Home/build/tableView-Home.build/Debug-iphonesimulator/tableView-Home.build/DerivedSources -c /Users/User/Dropbox/ApP4U/tableView-Home/tableView_Home_Prefix.pch -o /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tableView_Home_Prefix-gqzhjjowcypxjxdqlnccnvrbihpk/tableView_Home_Prefix.pch.gch0#
+
+CTouch /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app
+s394404814.028611
+e394404814.089448
+r1
+xTouch
+x/Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app
+lSLF07#2@93"Touch /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app394404814#394404814#0(0"0(0#0#0"8633824096#289"    cd /Users/User/Dropbox/ApP4U/tableView-Home    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/User/Dropbox/ApP4U/tableView-Home/build/Debug-iphonesimulator/tableView-Home.app0#
+
